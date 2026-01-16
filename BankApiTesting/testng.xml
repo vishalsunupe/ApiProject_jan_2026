@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="API Automation Parallel Suite">
+      
+
+    <test name="API Lifecycle Tests">
+
+        <classes>
+            <class name="apiTest.CustomerAccountTransactionE2ETest"/>
+            <class name="apiTest.CustomerLifecycleApiIT"/>
+            <class name="apiTest.AccountLifecycleIT"/>
+        <!--     <class name="apiTest.DatabaseValidatio_CustomerApiIT"/>   --> 
+        </classes>
+
+    </test>
+
+</suite>

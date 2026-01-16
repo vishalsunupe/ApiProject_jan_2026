@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [API Automation Parallel Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="API Lifecycle Tests(failed)">
+    <classes>
+      <class name="apiTest.CustomerLifecycleApiIT">
+        <methods>
+          <include name="shouldGetCustomerById"/>
+          <include name="shouldDeleteCustomer"/>
+          <include name="setup"/>
+          <include name="shouldUpdateCustomer"/>
+          <include name="tearDown"/>
+          <include name="shouldCreateCustomer"/>
+        </methods>
+      </class> <!-- apiTest.CustomerLifecycleApiIT -->
+    </classes>
+  </test> <!-- API Lifecycle Tests(failed) -->
+</suite> <!-- Failed suite [API Automation Parallel Suite] -->

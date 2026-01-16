@@ -1,0 +1,165 @@
+Uploading Existing Project to GitHub – Commands & Explanation
+==================================================
+
+STEP 1: Create a repository on GitHub
+------------------------------------
+Create a new empty repository on GitHub to store your project remotely.
+
+STEP 2: Configure Git User (One-time setup)
+-------------------------------------------
+
+Command:
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+Explanation:
+Sets your name in Git configuration. This name appears in commit history.
+
+Command:
+git config --global user.email "MY_NAME@example.com"
+
+Explanation:
+Sets your email address for commits. It should match your GitHub email.
+
+STEP 3: Initialize Local Repository
+-----------------------------------
+
+Command:
+git init
+
+Explanation:
+Initializes the current project directory as a Git repository.
+Creates a hidden .git folder.
+
+Command:
+git status
+
+Explanation:
+Shows the status of files (tracked, untracked, staged, modified).
+
+STEP 4: Add Files to Staging Area
+--------------------------------
+
+Command:
+git add <filename>
+
+Explanation:
+Adds a specific file to the staging area.
+
+Command:
+git add -A
+
+Explanation:
+Adds all files (new, modified, deleted) to the staging area.
+
+STEP 5: Commit Changes
+----------------------
+
+Command:
+git commit -m "message"
+
+Explanation:
+Commits staged changes to the local repository with a message.
+
+STEP 6: Add Remote Repository
+-----------------------------
+
+Command:
+git remote add origin https://github.com/Iaarun/restAPIProject7AMAug.git
+
+Explanation:
+Links the local repository to the remote GitHub repository.
+'origin' is the default name for the remote.
+
+STEP 7: Push Code to Remote Repository
+--------------------------------------
+
+Command:
+git push origin master
+
+Explanation:
+Pushes committed code from local master branch to GitHub.
+(Note: Some repositories use 'main' instead of 'master')
+
+==================================================
+
+Cloning Git Project to Local Machine
+==================================================
+
+Command:
+git clone https://github.com/Iaarun/restAPIProject7AMAug.git
+
+Explanation:
+Downloads the repository from GitHub to your local system.
+
+Command:
+git pull origin master
+
+Explanation:
+Fetches and merges the latest changes from master branch.
+
+==================================================
+
+Branching Commands
+==================================================
+
+Command:
+git branch mybranch
+
+Explanation:
+Creates a new branch named mybranch.
+
+Command:
+git checkout mybranch
+
+Explanation:
+Switches to the specified branch.
+
+Command:
+git checkout -b mybranch
+
+Explanation:
+Creates a new branch and switches to it in one command.
+
+==================================================
+
+Working on Branch
+==================================================
+
+Command:
+git status
+
+Explanation:
+Shows current branch status and file changes.
+
+Command:
+git add <file name>
+
+Explanation:
+Stages modified file(s).
+
+Command:
+git commit -m "messages"
+
+Explanation:
+Commits changes to the current branch.
+
+Command:
+git pull origin master
+
+Explanation:
+Updates your branch with latest changes from master.
+
+Command:
+git push origin mybranch
+
+Explanation:
+Pushes your branch changes to GitHub.
+
+==================================================
+
+Pull Request & Merge
+==================================================
+
+Explanation:
+Create a Pull Request (PR) on GitHub to merge your branch into master.
+After review, merge the PR to update master branch.

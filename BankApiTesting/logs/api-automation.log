@@ -1,0 +1,75 @@
+2026-01-16 20:31:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\visha\eclipse-workspace\BankApiTesting\testng.xml
+
+2026-01-16 20:31:09 INFO  baseTest.BaseTest - ========== TEST EXECUTION STARTED ==========
+2026-01-16 20:31:10 INFO  baseTest.BaseTest - Base URI set to: http://localhost:9090
+2026-01-16 20:31:10 INFO  baseTest.BaseTest - REST Assured request/response logging enabled on failure
+2026-01-16 20:31:10 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:31:10 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:31:10 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:31:12 INFO  baseTest.BaseTest - Customer ID stored for chaining: 223
+2026-01-16 20:31:12 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Customer ID stored for chaining: 222
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Fetching customer with ID: 222
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== GET CUSTOMER API TEST PASSED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Updating customer with ID: 222
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Account created with accountNo: 78447c2a-59c9-4a2f-bd0f-9ce441ebad75
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== GET ACCOUNT API STARTED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Account created with accountNo: bc864949-1710-475b-8ac6-b8d740ba98c4
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Account retrieved successfully
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== UPDATE ACCOUNT API STARTED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Account updated successfully
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== DELETE ACCOUNT API STARTED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== UPDATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - Deleting customer with ID: 222
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ===== DELETE CUSTOMER API TEST PASSED =====
+2026-01-16 20:31:13 INFO  baseTest.BaseTest - ========== TEST EXECUTION FINISHED ==========
+2026-01-16 20:52:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\visha\eclipse-workspace\BankApiTesting\testng.xml
+
+2026-01-16 20:52:47 INFO  baseTest.BaseTest - ========== TEST EXECUTION STARTED ==========
+2026-01-16 20:52:47 INFO  baseTest.BaseTest - Base URI set to: http://localhost:9090
+2026-01-16 20:52:47 INFO  baseTest.BaseTest - REST Assured request/response logging enabled on failure
+2026-01-16 20:52:48 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:52:48 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:52:48 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Customer ID stored for chaining: 225
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Customer ID stored for chaining: 224
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Fetching customer with ID: 224
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - ===== GET CUSTOMER API TEST PASSED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Updating customer with ID: 224
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Account created with accountNo: a5a3bdca-4c68-4e9a-951a-0f4a89556dc2
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - ===== UPDATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:52:50 INFO  baseTest.BaseTest - Deleting customer with ID: 224
+2026-01-16 20:52:51 INFO  baseTest.BaseTest - ========== TEST EXECUTION FINISHED ==========
+2026-01-16 20:54:58 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\visha\eclipse-workspace\BankApiTesting\testng.xml
+
+2026-01-16 20:54:58 INFO  baseTest.BaseTest - ========== TEST EXECUTION STARTED ==========
+2026-01-16 20:54:59 INFO  baseTest.BaseTest - Base URI set to: http://localhost:9090
+2026-01-16 20:54:59 INFO  baseTest.BaseTest - REST Assured request/response logging enabled on failure
+2026-01-16 20:54:59 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:55:01 INFO  baseTest.BaseTest - Customer ID stored for chaining: 226
+2026-01-16 20:55:01 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:55:01 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:55:01 INFO  baseTest.BaseTest - Account created with accountNo: f1cc349c-4bea-43af-a9d1-7ba8d0654d33
+2026-01-16 20:55:01 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST STARTED =====
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - Customer ID stored for chaining: 227
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - ===== CREATE CUSTOMER API TEST PASSED =====
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - Fetching customer with ID: 227
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - ===== GET CUSTOMER API TEST PASSED =====
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - Updating customer with ID: 227
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - ===== CREATE ACCOUNT API STARTED =====
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - Account created with accountNo: bd513542-e8a1-4fa0-8cb3-0dbde57c6882
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - ===== GET ACCOUNT API STARTED =====
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - Account retrieved successfully
+2026-01-16 20:55:02 INFO  baseTest.BaseTest - ===== UPDATE ACCOUNT API STARTED =====
+2026-01-16 20:55:03 INFO  baseTest.BaseTest - Account updated successfully
+2026-01-16 20:55:03 INFO  baseTest.BaseTest - ===== DELETE ACCOUNT API STARTED =====
+2026-01-16 20:55:03 INFO  baseTest.BaseTest - Account deleted successfully
+2026-01-16 20:55:03 INFO  baseTest.BaseTest - ========== TEST EXECUTION FINISHED ==========

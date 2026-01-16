@@ -1,0 +1,122 @@
+[
+  {
+    "customerName": "James Wilson",
+    "gender": "male",
+    "dateOfBirth": "1989-02-12",
+    "address": "21 Baker Street",
+    "city": "London",
+    "state": "England",
+    "pin": "560001",
+    "mobileNumber": "9123456789",
+    "email": "james.wilson@mail.com",
+    "password": "James@123"
+  },
+  {
+    "customerName": "Emily Thompson",
+    "gender": "female",
+    "dateOfBirth": "1993-06-24",
+    "address": "14 King Street",
+    "city": "Manchester",
+    "state": "England",
+    "pin": "560002",
+    "mobileNumber": "9234567890",
+    "email": "emily.thompson@mail.com",
+    "password": "Emily@123"
+  },
+  {
+    "customerName": "Oliver Brown",
+    "gender": "male",
+    "dateOfBirth": "1987-11-08",
+    "address": "88 Queen Road",
+    "city": "Birmingham",
+    "state": "England",
+    "pin": "560003",
+    "mobileNumber": "9345678901",
+    "email": "oliver.brown@mail.com",
+    "password": "Oliver@123"
+  },
+  {
+    "customerName": "Sophie Taylor",
+    "gender": "female",
+    "dateOfBirth": "1995-09-17",
+    "address": "5 Victoria Lane",
+    "city": "Leeds",
+    "state": "England",
+    "pin": "560004",
+    "mobileNumber": "9456789012",
+    "email": "sophie.taylor@mail.com",
+    "password": "Sophie@123"
+  },
+  {
+    "customerName": "William Harris",
+    "gender": "male",
+    "dateOfBirth": "1991-01-30",
+    "address": "62 Oxford Road",
+    "city": "Oxford",
+    "state": "England",
+    "pin": "560005",
+    "mobileNumber": "9567890123",
+    "email": "william.harris@mail.com",
+    "password": "William@123"
+  },
+  {
+    "customerName": "Charlotte Evans",
+    "gender": "female",
+    "dateOfBirth": "1996-03-11",
+    "address": "9 Castle Street",
+    "city": "Cardiff",
+    "state": "Wales",
+    "pin": "560006",
+    "mobileNumber": "9678901234",
+    "email": "charlotte.evans@mail.com",
+    "password": "Charlotte@123"
+  },
+  {
+    "customerName": "Thomas Walker",
+    "gender": "male",
+    "dateOfBirth": "1985-07-19",
+    "address": "33 George Square",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "pin": "560007",
+    "mobileNumber": "9789012345",
+    "email": "thomas.walker@mail.com",
+    "password": "Thomas@123"
+  },
+  {
+    "customerName": "Amelia Robinson",
+    "gender": "female",
+    "dateOfBirth": "1998-12-05",
+    "address": "17 High Street",
+    "city": "Cambridge",
+    "state": "England",
+    "pin": "560008",
+    "mobileNumber": "9890123456",
+    "email": "amelia.robinson@mail.com",
+    "password": "Amelia@123"
+  },
+  {
+    "customerName": "Henry Collins",
+    "gender": "male",
+    "dateOfBirth": "1990-05-27",
+    "address": "48 Market Street",
+    "city": "Nottingham",
+    "state": "England",
+    "pin": "560009",
+    "mobileNumber": "9012345678",
+    "email": "henry.collins@mail.com",
+    "password": "Henry@123"
+  },
+  {
+    "customerName": "Grace Parker",
+    "gender": "female",
+    "dateOfBirth": "1994-10-14",
+    "address": "11 Riverside Walk",
+    "city": "York",
+    "state": "England",
+    "pin": "560010",
+    "mobileNumber": "8899776655",
+    "email": "grace.parker@mail.com",
+    "password": "Grace@123"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "accountNo": "ACC1767542216769",
+    "transactionType": "DEPOSIT",
+    "amount": 500.0,
+    "description": "Salary credit"
+  },
+  {
+    "accountNo": "ACC1767542217762",
+    "transactionType": "DEPOSIT",
+    "amount": 1200.0,
+    "description": "Bonus credit"
+  },
+  {
+    "accountNo": "ACC1767542217836",
+    "transactionType": "DEPOSIT",
+    "amount": 800.0,
+    "description": "Cash deposit"
+  },
+  {
+    "accountNo": "ACC1767542217999",
+    "transactionType": "DEPOSIT",
+    "amount": 1500.0,
+    "description": "Monthly savings"
+  },
+  {
+    "accountNo": "ACC1767542218095",
+    "transactionType": "DEPOSIT",
+    "amount": 300.0,
+    "description": "Interest credit"
+  },
+  {
+    "accountNo": "ACC1767542218245",
+    "transactionType": "DEPOSIT",
+    "amount": 2500.0,
+    "description": "Project payment"
+  },
+  {
+    "accountNo": "ACC1767542218330",
+    "transactionType": "DEPOSIT",
+    "amount": 1000.0,
+    "description": "Freelance income"
+  },
+  {
+    "accountNo": "ACC1767542218463",
+    "transactionType": "DEPOSIT",
+    "amount": 450.0,
+    "description": "Refund credit"
+  },
+  {
+    "accountNo": "ACC1767542218546",
+    "transactionType": "DEPOSIT",
+    "amount": 600.0,
+    "description": "Gift received"
+  },
+  {
+    "accountNo": "ACC1767542218649",
+    "transactionType": "DEPOSIT",
+    "amount": 2000.0,
+    "description": "Investment return"
+  }
+]
